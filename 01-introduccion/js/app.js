@@ -11,3 +11,8 @@ document.querySelector('.contenido').innerHTML = `${nombre} esta aprendiendo Jav
 
 // Asigna el valor hacia la variable producto
 const producto = 'Monitor 24 pulgadas';
+
+/* Consola de JavaScript */
+console.error('Algo salio mal');
+console.time('Hola');
+console.warn('Eso no esta permitido');
